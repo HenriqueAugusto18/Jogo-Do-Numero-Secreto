@@ -1,52 +1,66 @@
 Jogo do Número Secreto
 
-Este é um projeto simples desenvolvido em Python com o objetivo de praticar lógica de programação, estruturas condicionais e loops.
+Este é um projeto simples desenvolvido em **JavaScript** com o objetivo de praticar lógica de programação, estruturas condicionais e estruturas de repetição.
 
 Descrição
 
-O jogo sorteia um número secreto e o jogador precisa adivinhar qual é esse número. A cada tentativa, o programa informa se o chute foi maior ou menor que o número correto.
+O jogo sorteia um número secreto e o jogador precisa tentar descobrir qual é esse número.
 
-Tecnologias utilizadas
+A cada tentativa, o programa informa se o número escolhido pelo jogador é **maior ou menor** que o número secreto, ajudando a encontrar a resposta correta.
 
-* Python 3
+## 🛠️ Tecnologias utilizadas
+
+* JavaScript
 * Lógica de programação
 * Estruturas condicionais (`if`, `else`)
 * Estruturas de repetição (`while`)
-* Entrada de dados (`input`)
+* Variáveis
+* Entrada de dados
+* Geração de números aleatórios
 
 Objetivo do projeto
 
-Este projeto foi desenvolvido com fins de estudo, para praticar conceitos fundamentais de programação e melhorar a lógica de resolução de problemas.
+Este projeto foi desenvolvido com fins de estudo, com o objetivo de praticar conceitos fundamentais de **JavaScript**, desenvolver a lógica de programação e melhorar a capacidade de resolução de problemas.
 
 Como executar o projeto
 
-1. Tenha o Python instalado na sua máquina (versão 3 ou superior)
+1. Tenha o **Node.js** instalado em sua máquina.
+
 2. Baixe ou clone este repositório:
 
-   ```bash
-   git clone https://github.com/HenriqueAugusto18/Jogo-Do-Numero-Secreto.git
-   ```
+```bash
+git clone https://github.com/HenriqueAugusto18/Jogo-Do-Numero-Secreto.git
+```
+
 3. Acesse a pasta do projeto:
 
-   ```bash
-   cd Jogo-Do-Numero-Secreto
-   ```
-4. Execute o arquivo principal:
+```bash
+cd Jogo-Do-Numero-Secreto
+```
 
-   ```bash
-   python nome_do_arquivo.py
-   ```
+4. Execute o arquivo JavaScript:
 
- Aprendizados
+```bash
+node nome_do_arquivo.js
+```
+
+> Substitua `nome_do_arquivo.js` pelo nome do arquivo principal do projeto.
+
+Aprendizados
 
 Durante o desenvolvimento deste projeto, foram praticados:
 
 * Lógica de programação
 * Controle de fluxo
+* Estruturas condicionais
 * Estruturas de repetição
-* Interação com usuário via terminal
+* Geração de números aleatórios
+* Entrada e interação com o usuário
+* Desenvolvimento utilizando JavaScript
 
 Autor
 
-Henrique Augusto Chaves
+**Henrique Augusto Chaves**
+
 GitHub: https://github.com/HenriqueAugusto18
+
